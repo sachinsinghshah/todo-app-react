@@ -1,0 +1,5 @@
+{
+  "appId": "com.frontend.app",
+  "appName": "frontend",
+  "webDir": "dist"
+}
